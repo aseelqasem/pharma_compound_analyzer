@@ -1,0 +1,13 @@
+def show_menu():
+    print("\n================================")
+    print(" Pharmaceutical Compound Analyzer")
+    print("================================\n")
+    print("1. Show all compounds")
+    print("2. Search compound")
+    print("3. Add compound")
+    print("4. Delete compound")
+    print("5. Analyze compound")
+    print("6. Statistics")
+    print("7. Compare compounds")
+    print("8. Export analysis to file")
+    print("9. Exit\n")

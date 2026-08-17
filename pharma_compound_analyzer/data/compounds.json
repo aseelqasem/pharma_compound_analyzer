@@ -1,0 +1,26 @@
+[
+    {
+        "name": "Withaferin A",
+        "molecular_weight": 470.6,
+        "logP": 1.9,
+        "solubility": "Low"
+    },
+    {
+        "name": "Curcumin",
+        "molecular_weight": 368.4,
+        "logP": 3.2,
+        "solubility": "Low"
+    },
+    {
+        "name": "Aspirin",
+        "molecular_weight": 180.16,
+        "logP": 1.2,
+        "solubility": "High"
+    },
+    {
+        "name": "cafeein",
+        "molecular_weight": 194.19,
+        "logP": -0.07,
+        "solubility": "slightly"
+    }
+]
